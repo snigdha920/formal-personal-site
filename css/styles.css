@@ -150,7 +150,7 @@ hr{
   }
   /* Introduction Page */
   .introduction-div{
-    padding: 20% 15%;
+    padding: 10% 0;
     text-align: center;
   }
   .snigdha-image {
@@ -191,23 +191,14 @@ hr{
   }
   /* Introduction Page */
   .introduction-div{
-    padding: 40% 0;
+    padding: 20% 0;
     text-align: center;
   }
   .snigdha-image {
     height: 37%;
     width: 37%;
   }
-  /* About me */
-  .about-me-div {
-  padding: 5%;
-  text-align: center;
-  }
   /* Skills */
-  #skills {
-  padding: 5%;
-  text-align: centre;
-  }
   .skill-icon-2 {
     height: 100%;
     width: 30%;
@@ -232,7 +223,7 @@ hr{
   }
   /* Social Icons */
   .social-icons {
-    padding: 8% 20% 8%;
+    padding: 8% 15% 8%;
     background-color: rgb(176, 234, 205, 0.4);
     text-align: center;
   }
